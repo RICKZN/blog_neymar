@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(14, 192, 224);
+    color: rgb(27, 31, 235);
+}
+#p{
+    text-align: center;
+    border: 20px outset black;
+    background-color: white;
+    padding: 10px;
+ border-radius: 50px;
+ 
+}
+img{
+    border: 10px ridge black;
+    border-radius: 50px;
+}
+#pc{
+    text-align: center;
+}
+a{
+    color: black;
+    border: solid rgba(13, 125, 252, 0.582); 
+    text-decoration: none;
+}
+#post1{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 20px outset rgb(31, 22, 153);
+}
+#post2{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 20px outset rgb(98, 0, 255);
+}
+#post3{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 20px outset rgb(25, 0, 255);
+}
+#b1{
+    background-color: blue;
+  padding: auto;
+  border: 4px outset black;
+  width: 26%;
+}
+#b2{
+background-color: blue;
+padding: auto;
+border: 4px outset black;
+width: 26%;
+}
+#b3{
+background-color: blue;
+padding: auto;
+border: 4px outset black;
+width: 26%;
+}
+#xp{
+    text-align: center;
+    border: 20px outset black;
+    background-color: white;
+    padding: 10px;
+ border-radius: 50px;
+}
+#listas{
+    text-align: center;
+    border: 20px outset black;
+    background-color: white;
+    padding: 10px;
+ border-radius: 50px;
+
+}
