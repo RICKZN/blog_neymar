@@ -9,6 +9,8 @@ body{
     padding: 10px;
  border-radius: 50px;
 }
+img{
+    text-align: center;
 #p{
     text-align: center;
     border: 20px outset black;
