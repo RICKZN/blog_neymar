@@ -2,18 +2,7 @@ body{
     background-color: rgb(14, 192, 224);
     color: rgb(27, 31, 235);
 }
-#gt{
 
-    
-    background-color: white;
-    padding: 10px;
- 
-    text-align: center;
-}
-img{
-    border: 10px ridge black;
-    border-radius: 50px;
-}
 #p{
     text-align: center;
     border: 20px outset black;
