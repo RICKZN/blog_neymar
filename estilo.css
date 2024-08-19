@@ -72,7 +72,9 @@ width: 26%;
     border: 20px outset black;
     background-color: white;
     padding: 10px;
- border-radius: 50px;
+ border-radius: 50px;}
+ul{
+    list-style: none;}
 }
 #listas{
     text-align: center;
